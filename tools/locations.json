@@ -1,0 +1,111 @@
+{
+  "shuna": {
+    "name": "Shuna Island",
+    "country": "Scotland, United Kingdom",
+    "osm": [
+      "way",
+      200773375
+    ],
+    "center": [
+      56.2127,
+      -5.6037
+    ],
+    "margin_m": 1300,
+    "hscale": 1.8,
+    "vscale": 1.9,
+    "grid": 512,
+    "bathy": "emodnet",
+    "shelf": {
+      "slope": 0.035,
+      "max": 60
+    }
+  },
+  "makri": {
+    "name": "Makri Island",
+    "country": "Echinades, Greece",
+    "osm": [
+      "relation",
+      812356
+    ],
+    "center": [
+      38.3602,
+      21.037
+    ],
+    "margin_m": 1100,
+    "hscale": 2.0,
+    "vscale": 2.0,
+    "grid": 512,
+    "bathy": "emodnet",
+    "shelf": {
+      "slope": 0.04,
+      "max": 50
+    }
+  },
+  "lastovo": {
+    "name": "Lastovo",
+    "country": "Dubrovnik-Neretva, Croatia",
+    "osm": [
+      "relation",
+      10312404
+    ],
+    "center": [
+      42.7505,
+      16.8775
+    ],
+    "margin_m": 1700,
+    "hscale": 0.7,
+    "vscale": 0.75,
+    "grid": 576,
+    "bathy": "emodnet",
+    "shelf": {
+      "slope": 0.08,
+      "max": 120
+    }
+  },
+  "guafo": {
+    "name": "Isla Guafo",
+    "country": "Los Lagos, Chile",
+    "osm": [
+      "relation",
+      5446389
+    ],
+    "center": [
+      -43.5978,
+      -74.694
+    ],
+    "margin_m": 3000,
+    "hscale": 1.0,
+    "vscale": 1.0,
+    "grid": 640,
+    "bathy": "terrarium",
+    "shelf": {
+      "slope": 0.02,
+      "max": 150
+    }
+  },
+  "moorea": {
+    "name": "Mo'orea",
+    "country": "Windward Islands, French Polynesia",
+    "osm": [
+      "relation",
+      10045248
+    ],
+    "center": [
+      -17.5333,
+      -149.8342
+    ],
+    "margin_m": 2600,
+    "hscale": 0.7,
+    "vscale": 0.7,
+    "grid": 640,
+    "bathy": "terrarium",
+    "shelf": {
+      "slope": 0.006,
+      "max": 8,
+      "reef_m": 800,
+      "dropoff": 0.35,
+      "deep": 600,
+      "bays": 2500
+    }
+  }
+}
